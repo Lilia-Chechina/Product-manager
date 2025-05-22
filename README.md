@@ -1,24 +1,24 @@
 ## Исследования продукта
-___
+
 ### **Название проекта:** Suna Travel (Трекер путешествий)
 
-##### **Проблема:**
+### **Проблема:**
 Путешественникам трудоёмко составить маршрут поездки за неимением
 актуальной информации о достопримечательностях (например, озеро-
 достопримечательность может зацвести или высохнуть).
 
 Для сохранения и шэринга различной информации о путешествиях используются много разных приложений, отсутствует инструмент, содержащий в себе все виды информации (фото, видео, текст, геометки и т.д).
 
-##### **Цель приложения:**
+### **Цель приложения:**
 Создать удобный инструмент для путешественников, позволяющий составлять актуальные маршруты, а также планировать поездки, хранить воспоминания и просматривать историю путешествий через визуальные элементы, такие как фотографии и карты, делиться своими поездками и вдохновляться поездками других путешественников.
 
 **Таск-трекер**
     - [**trello**](https://trello.com/b/KY57Lynp/suna-team)
 
 **Github**
-    - [**Github**](https://github.com/iOS-vk-education/2024_1_SunaTeam/tree/main)
+    - [**Suna Travel**](https://github.com/iOS-vk-education/2024_1_SunaTeam/tree/main)
 
 ### В ходе разработки данного приложения были выполнены следующие задачи как продакт-менеджера (и не только эти):
-- [ ] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
-- [ ] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
-- [ ] [**Roadmap**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
+- [x] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
+- [x] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
+- [x] [**Roadmap**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
