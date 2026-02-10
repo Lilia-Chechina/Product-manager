@@ -19,7 +19,6 @@
 **Github**
     - [**Suna Travel**](https://github.com/iOS-vk-education/2024_1_SunaTeam/tree/main)
 
-### В ходе разработки данного приложения были выполнены следующие задачи как продакт-менеджера (и не только эти):
-- [x] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
+### Некоторые материалы:
 - [x] [**Product One-Pager**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Product%20One-Pager.pdf)
 - [x] [**Roadmap**](https://github.com/Lilia-Chechina/Product-manager/blob/main/Roadmap.pdf)
